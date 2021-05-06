@@ -69,26 +69,26 @@
       height="40"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://unity.com/pt" target="_blank">
     <img
-      src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
-      alt="Figma"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHBv-VGQDbPf6rzdxpc2mctJkooE_v-sIDh-mpx_RJ9GhkNvd3KD2pe7oZA&s"
+      alt="Unity"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" target="_blank">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsWzqI5V5yXmHKBBC9ChhWJ-J90U0FFwa6xmUK5mF3wzO34ug1rFL6ciNUg&s" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"
-      alt="AdobeXD"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsWzqI5V5yXmHKBBC9ChhWJ-J90U0FFwa6xmUK5mF3wzO34ug1rFL6ciNUg&s"
+      alt="C/C++"
       width="40"
       height="40"
     />
   </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" target="_blank">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-      alt="NodeJS"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png"
+      alt="C#"
       width="40"
       height="40"
     />
@@ -109,5 +109,4 @@
 
 ### Encontre-me na web 🌎:
 
-- Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>.
-- Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>.
+- Conecte-se comigo no: <a href="https://www.linkedin.com/in/otávio-araujo-77474b1ab/">Linkedin</a>.
