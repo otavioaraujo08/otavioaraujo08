@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
 ## Apresentação
- - Meu nome é Otávio Araujo Chaves e tenho 20 anos.
+ - Meu nome é Otávio Araujo Da Silva e tenho 20 anos.
  - Atualmente estou no quinto semestre de **Ciência da computação** no **Cesupa**.
  - Adoro musica e animes, como Rock e Parasyte
 
