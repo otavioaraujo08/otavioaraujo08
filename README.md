@@ -2,7 +2,7 @@
 
 ## Apresentação
  - Meu nome é Otávio Araujo Da Silva e tenho 20 anos.
- - Atualmente estou no quinto semestre de **Ciência da computação** no **Cesupa**.
+ - Atualmente estou no Sexto semestre de **Ciência da computação** no **Cesupa**.
  - Adoro musica e animes, como Rock e Parasyte
 
 ### Bio
