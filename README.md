@@ -1,112 +1,111 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
 ## Apresentação
- - Meu nome é Otávio Araujo Da Silva e tenho 20 anos.
- - Atualmente estou no Sexto semestre de **Ciência da computação** no **Cesupa**.
- - Adoro musica e animes, como Rock e Parasyte
+ - Meu nome é Otávio Araujo Da Silva e tenho 21 anos.
+ - Atualmente estou no Sétimo semestre de **Ciência da computação** no **Cesupa**.
+ - Gosto de Tecnologia, jogos e novidades em geral
 
 ### Bio
-- 💕 - Sou desenvolvedor **Backend** e também gosto de **Banco de dados.**.
-- 📚 - Estudando: Python, Django e Express.
+- 💕 - Sou desenvolvedor **Full-Stackd** e também gosto de **Banco de dados.**.
+- 📚 - Stacks: Python, Django e Express - JavaScript, VueJs e Quasar
 
 <hr/>
 
 ### Linguagens e Ferramentas
 
-<p align="left">
-    <a
-    href="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-177ca70/wp-content/uploads/2020/07/python-5.jpg"
-    target="_blank"
-  >
-    <img
-      src="https://www.shuup.com/wp-content/uploads/2017/12/python-plus-django-1.jpg"
-      alt="Django + Python"
-      width="40"
-      height="40"
-    />
-  </a>
+<p align="center">
    <a
-    href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+    href="https://www.python.org/"
     target="_blank"
-  >
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
-      alt="Javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-     <a href="https://www.python.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://marquesfernandes.com/wp-content/uploads/2020/08/kwi4bvgzths31.jpg"
       alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
-      alt="VsCode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/pt" target="_blank">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHBv-VGQDbPf6rzdxpc2mctJkooE_v-sIDh-mpx_RJ9GhkNvd3KD2pe7oZA&s"
-      alt="Unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsWzqI5V5yXmHKBBC9ChhWJ-J90U0FFwa6xmUK5mF3wzO34ug1rFL6ciNUg&s" target="_blank">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsWzqI5V5yXmHKBBC9ChhWJ-J90U0FFwa6xmUK5mF3wzO34ug1rFL6ciNUg&s"
-      alt="C/C++"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png"
-      alt="C#"
-      width="40"
-      height="40"
-    />
-  </a>
-    </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"
-      alt="Git"
       width="60"
-      height="40"
+      height="60"
     />
   </a>
-  
+  <a
+    href="https://www.djangoproject.com/"
+    target="_blank"
+   >
+   <img
+     src="https://humberto.io/img/posts/django-generic-manytomany-relations.png"
+     alt="Django"
+     width="60"
+     height="60"
+   />
+  </a>
+  <a
+    href="https://www.mysql.com/"
+    target="_blank"
+   >
+   <img
+     src="https://www.iped.com.br/img/cursos/56207.jpg"
+     alt="MySQL"
+     width="60"
+     height="60"
+   />
+  </a>
+  <a
+    href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    target="_blank"
+   >
+   <img
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"
+     alt="JavaScript"
+     width="60"
+     height="60"
+   />
+  </a>
+  <a
+    href="https://vuejs.org/"
+    target="_blank"
+   >
+   <img
+     src="https://miro.medium.com/max/1200/1*nq9cdMxtdhQ0ZGL8OuSCUQ.jpeg"
+     alt="VueJs"
+     width="60"
+     height="60"
+   />
+  </a>
+  <a
+    href="https://quasar.dev/"
+    target="_blank"
+   >
+   <img
+     src="https://static.imasters.com.br/wp-content/uploads/2019/02/26152553/Criando-mu%CC%81ltiplos-environments-no-Quasar-Framework.jpg"
+     alt="Quasar"
+     width="60"
+     height="60"
+   />
+  </a>
+  <a
+    href="https://quasar.dev/"
+    target="_blank"
+   >
+   <img
+     src="https://blog.bsource.com.br/assets/img/POSTMAN.png"
+     alt="Postman"
+     width="60"
+     height="60"
+   />
+  </a>
 </p>
 
 <hr/>
-
+ 
+<div align="center">
+  <a href="https://github.com/otavioaraujo08">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioaraujo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaraujo08&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+<hr/>
+ 
 ### Encontre-me na web 🌎:
-
-- Conecte-se comigo no: <a href="https://www.linkedin.com/in/otávio-araujo-77474b1ab/">Linkedin</a>.
+<div align="center">
+ <a href = "otaviodev08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://www.linkedin.com/in/otávio-araujo-77474b1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
