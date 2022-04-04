@@ -1,12 +1,12 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
 ## Apresentação
- - Meu nome é Otávio Araujo Da Silva e tenho 21 anos.
+ - Meu nome é Otávio Araujo.
  - Atualmente estou no Sétimo semestre de **Ciência da computação** no **Cesupa**.
  - Gosto de Tecnologia, jogos e novidades em geral
 
 ### Bio
-- 💕 - Sou desenvolvedor **Full-Stackd** e também gosto de **Banco de dados.**.
+- 💕 - Sou desenvolvedor **Full-Stack** e também gosto de **Banco de dados.**.
 - 📚 - Stacks: Python, Django e Express - JavaScript, VueJs e Quasar
 
 <hr/>
