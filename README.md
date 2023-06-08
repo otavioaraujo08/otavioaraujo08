@@ -5,8 +5,8 @@
  - I like technology, games and art 👺
 
 ### Bio
-- 💕 I'm a full stack developer, and I'm working at Frexco
-- 📚 Stacks: TypeScript, JavaScript, React, Python, Django, Flask
+- 💕 I'm a full stack developer
+- 📚 Stacks: TypeScript, JavaScript, React, Node Js, Python, Django, Flask
 
 <hr/>
  
