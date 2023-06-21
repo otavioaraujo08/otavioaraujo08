@@ -41,8 +41,8 @@
 <div>
  <div align="justify-between">
    <a href="https://github.com/otavioaraujo08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioaraujo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaraujo08&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioaraujo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="60%" height="auto"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaraujo08&layout=compact&langs_count=7&theme=dracula" width="30%" height="auto"/>
    </a>
  </div>
 </div>
@@ -50,12 +50,12 @@
 <hr/>
 
 <h3 align="left">Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" />  <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="250rem" />  <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <hr/>
 
 <h3 align="left">Season Rank:</h3>
-<p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" /></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="300rem" /></a> </p>
 
 <hr/>
 
