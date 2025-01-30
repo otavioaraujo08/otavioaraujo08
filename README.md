@@ -49,16 +49,5 @@
 
 <hr/>
 
-<h3 align="left">Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="250rem" />  <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
-<hr/>
-
 <h3 align="left">Season Rank:</h3>
 <p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="300rem" /></a> </p>
-
-<hr/>
-
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ot%C3%A1vioaraujo&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ot%C3%A1vioaraujo&redirect=true)
